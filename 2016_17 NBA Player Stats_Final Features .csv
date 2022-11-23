@@ -1,4 +1,4 @@
-Player,Team ,Year,Pos,Salary,Age,Games Played,Field Goal Percentage,3-Point Field Goal Percentage,Free Throw Percentage,Total Rebounds,Assists,Steals,Blocks,Turnovers,Points
+Player,Team ,Year,Pos,Salary,Age,Games Played,Field Goal Percentage,3 Point Field Goal Percentage,Free Throw Percentage,Total Rebounds,Assists,Steals,Blocks,Turnovers,Points
 Daniel Ochefu,WAS,2017,C,"$50,000",23,19,0.444,0,0,22,3,2,0,3,24
 Jonathan Gibson,DAL,2017,PG,"$74,158",29,17,0.368,0.333,0.724,22,26,8,0,21,106
 Anthony Brown,TOT,2017,SF,"$77,250",24,11,0.36,0.259,0,33,8,5,1,6,43
